@@ -1,5 +1,6 @@
 #ömerfarukatik
 #Serhat Camadan
+#ömerfarukatik
 def dijkstra(nodes,edges,index=0):
     path_lenghts={v:float('inf') for v in nodes}
     path_lenghts[index]=0
