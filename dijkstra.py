@@ -7,6 +7,7 @@
 #Başka bir yorum
 # asjhdASGDYASDYA
 # AJSHKDASHDA
+# Yeni eklemeler *1p3*-203230-1
 def dijkstra(nodes,edges,index=0):
     path_lenghts={v:float('inf') for v in nodes}
     path_lenghts[index]=0
